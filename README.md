@@ -2,7 +2,7 @@
 
 Next-Generation AI Art Generation on Solana
 
-![SOL Image AI Banner](static/banner.png)
+![SOL Image AI Banner](banner.png)
 
 SOL Image AI is a cutting-edge platform that combines the power of artificial intelligence with the speed and efficiency of the Solana blockchain to create stunning artwork. Our platform offers a seamless, user-friendly interface for generating unique AI-powered images.
 
